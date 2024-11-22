@@ -1,0 +1,8 @@
+SQL PERSONAL PROJECT TASKS
+
+1. Load the "dbin_songs_data_v2.csv" into PostgreSQL database and perform the appropriate task to clean and transform the data based on the SQL Data analysis lifecycle.
+
+Export and Save any Graph(s) you have created.
+
+# Hint: Follow the exact steps in MySQL Lecture 03: "(KC SQL) 03_MySQL_DML_DELETE_Example"
+
